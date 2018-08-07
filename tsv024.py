@@ -5,6 +5,7 @@ Created on Thurs Jul 19
 Purpose: To automatically populate spreadsheets with pubmed articles
 
 @author: Daniel Alber
+twitter: @dalber_
 """
 
 from Bio import Entrez
