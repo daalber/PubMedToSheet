@@ -1,7 +1,5 @@
 # PubMedToSheet
 
-### Note: As of right now, the raw file is names TSV024.py :: This will be changed soon
-
 ## This is a python script which facilitates the creation of a sheet and import of pubmed data in a specified format
 
 Required modules: Biopython (for Entrez/Pubmed access), TKinter, OpenPyXl (for Excel functionality)
