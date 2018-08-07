@@ -196,6 +196,7 @@ class MakeSheet():
         self.sheet['E1'] = "Language"
         self.sheet['F1'] = "Journal"
         self.sheet['G1'] = "Abstract"
+        self.sheet['H1'] = "Link"
         
     def insert_article(self, article):
         Article.id += 1
