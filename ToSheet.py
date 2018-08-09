@@ -162,9 +162,7 @@ class Article():
         
     def fetch_single_details(self, pmid):
         Entrez.email = Article.email
-        handle = Entrez.efetch(db = 'pubmed',
-                              retmode = 'xml',
-                              id = pmid)
+        handle = Entrez.efetch(db = 'pubmed', retmode = 'xml', id = pmid)
         results = Entrez.read(handle)
         return results 
     
