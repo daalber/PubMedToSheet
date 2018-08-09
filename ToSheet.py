@@ -41,6 +41,7 @@ def file_dial():
     return file_path
 
 # clear screen w/ call to 'clear()'
+# NOTE: 'cls' on windows, else 'clear'
 clear = lambda: os.system('cls')
 
 # Article class
