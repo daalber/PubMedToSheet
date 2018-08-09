@@ -10,7 +10,7 @@ A spreadsheet is generated and populated with studies:
 
 2) A preview of the study appears with its relevant data. A confirmation dialog asks to confirm the desired study, and lists potential errors in data (i.e. missing data/fields)
 
-3) Upon confirmation, the study is added to the sheet. The sheet is saveable at any time.
+3) Upon confirmation, the study is added to the sheet. The sheet can be saved at any time.
 
 ### Feel free to use, modify, etc. Credit is appreciated. MIT License.
 
