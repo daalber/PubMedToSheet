@@ -15,3 +15,8 @@ A spreadsheet is generated and populated with studies:
 ### Feel free to use, modify, etc. Credit is appreciated. MIT License.
 
 ### Please share any issues or bugs with me via email or the issues page
+
+Upcoming features:
+- Ability to add to existing sheets
+- Ability to process list of PMID's
+- Ability to select features to be included in sheet
